@@ -131,6 +131,19 @@ cout<<name<<endl;
 cout<<palindrome(name,nnnn);
 
 
+cout<<"my name is yash"<<endl;
+
+cout<<"hi i am yash";
+
+
+
+
+
+
+
+
+
+
 
 
 
